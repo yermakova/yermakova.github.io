@@ -1,0 +1,74 @@
+---
+title:  "IDEA: Monitoring Growth"
+subtitle: "Here's a chart I fill out weekly."
+author: "Valeria"
+avatar: "img/authors/val.jpg"
+image: "img/mountain.jpg"
+date:   2017-02-26 12:12:12
+---
+
+Here's something I wrote in a blog about 4 years ago that I still use:
+
+Ever feel like you're not doing anything with your life, like you're living in a nebulous realm?
+I used to. Constantly I would think "What have I really done? What do I want to do? Where is my life heading? Will I be happy in the future?!" 
+
+To fix this annoying existential crisis I made a chart.
+
+Every single week, on Sunday nights, I evaluate my progress in 6 areas. 
+
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>Important Thing</th>
+    <th>What I Accomplished</th> 
+    <th>What I Failed At</th>
+  </tr>
+  <tr>
+    <td>Family</td>
+	<td> </td>
+	<td> </td>
+  </tr>
+  <tr>
+    <td>Friends</td>
+	<td> </td>
+	<td> </td>
+  </tr>
+  <tr>
+    <td>Education</td>
+	<td> </td>
+	<td> </td>
+  </tr>
+  <tr>
+    <td>Career</td>
+	<td> </td>
+	<td> </td>
+  </tr>
+  <tr>
+    <td>Health</td>
+	<td> </td>
+	<td> </td>
+  </tr>
+  <tr>
+    <td>Other</td>
+	<td> </td>
+	<td> </td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+This is an unavoidable, absolutely mandatory event every single week.
+
+So far it's been working out great. I feel far more satisfaction from life because I can very tangibly evaluate my progress and my failures.
+
+I highly recommend doing this - I spend about 30 min on it. And honestly it's pretty fun to do once you get started.

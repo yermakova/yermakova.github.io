@@ -1,9 +1,9 @@
 ---
-title:  "TRAVEL: Is Central America Dangerous?"
-subtitle: "Yes and no."
+title:  "IDEA: Buy With Intention"
+subtitle: "Cool companies that you should support"
 author: "Valeria"
-avatar: "img/authors/val.JPG"
-image: "img/volcano.jpg"
+avatar: "img/authors/val.jpg"
+image: "img/market.jpg"
 date:   2017-02-24 12:12:12
 ---
 

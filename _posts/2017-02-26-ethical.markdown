@@ -1,9 +1,9 @@
 ---
-title:  "IDEA: Monitoring Growth"
-subtitle: "Here's a chart I fill out daily"
+title:  "IDEA: Web Security"
+subtitle: "Simple protections do you don't ruin your life"
 author: "Valeria"
 avatar: "img/authors/val.jpg"
-image: "img/f.jpg"
+image: "img/vest.jpg"
 date:   2015-04-25 12:12:12
 ---
 
