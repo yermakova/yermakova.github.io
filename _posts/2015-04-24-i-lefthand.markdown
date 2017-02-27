@@ -1,5 +1,5 @@
 ---
-title:  "EXPERIMENT: 3 days with left hand"
+title:  "EXPERIMENT: 3 days left handed"
 subtitle: "It was hard"
 author: "Valeria"
 avatar: "img/authors/val.jpg"
