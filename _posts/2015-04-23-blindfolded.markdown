@@ -1,13 +1,13 @@
 ---
-title:  "Ah"
-subtitle: "The Bigger the better?"
+title:  "EXPERIMENT: 3 days blindfolded"
+subtitle: "Only lights from space"
 author: "Valeria"
-avatar: "img/authors/val.JPG"
-image: "img/poop.jpg"
-date:   2015-04-22 12:12:12
+avatar: "img/authors/val.jpg"
+image: "img/d.jpg"
+date:   2015-04-23 12:12:12
 ---
 
-### Does this work though?
+### Dolor sit amet?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
 
 ### Aliquam suscipit.
@@ -18,6 +18,3 @@ Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec ege
 Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
 
 Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
-
-
-# Val likes to eat poopies
