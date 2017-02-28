@@ -2,7 +2,7 @@
 title:  "IDEA: Just Go and Do"
 subtitle: "Sounds stupid, but it's hard"
 author: "Valeria"
-avatar: "img/authors/val.jpg"
+avatar: "img/val.jpg"
 image: "img/sand.jpg"
 date:   2017-02-26 12:12:12
 ---

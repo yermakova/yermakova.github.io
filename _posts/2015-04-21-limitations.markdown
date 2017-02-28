@@ -2,7 +2,7 @@
 title:  "IDEA: Leveraging Limitations"
 subtitle: "Got something really sucky in your life?"
 author: "Valeria"
-avatar: "img/authors/val.jpg"
+avatar: "img/val.jpg"
 image: "img/limitation.jpg"
 date:   2017-02-24 12:12:12
 ---

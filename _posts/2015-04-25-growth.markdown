@@ -2,7 +2,7 @@
 title:  "IDEA: Monitoring Growth"
 subtitle: "Here's a chart to fill out weekly"
 author: "Valeria"
-avatar: "img/authors/val.jpg"
+avatar: "img/val.jpg"
 image: "img/mountain.jpg"
 date:   2017-02-26 12:12:12
 ---

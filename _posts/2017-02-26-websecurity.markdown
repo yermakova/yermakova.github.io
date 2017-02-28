@@ -2,7 +2,7 @@
 title:  "IDEA: Web Security"
 subtitle: "Simple things to understand to protect yourself"
 author: "Valeria"
-avatar: "img/authors/val.jpg"
+avatar: "img/val.jpg"
 image: "img/vest.jpg"
 date:   2017-02-27 12:12:12
 ---

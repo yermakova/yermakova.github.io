@@ -2,7 +2,7 @@
 title:  "TRAVEL: Don't have money, where should I go?"
 subtitle: "Travel to Asia"
 author: "Valeria"
-avatar: "img/authors/val.jpg"
+avatar: "img/val.jpg"
 image: "img/asia.jpg"
 date:   2015-04-25 12:12:12
 ---
