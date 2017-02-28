@@ -2,7 +2,7 @@
 title:  "TRAVEL: Is Central/South America Dangerous?"
 subtitle: "Yes and no"
 author: "Valeria"
-avatar: "img/authors/val.jpg"
+avatar: "img/asia.jpg"
 image: "img/ca.jpg"
 date:   2017-02-27 12:12:12
 ---
