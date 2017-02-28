@@ -3,7 +3,7 @@ title:  "IDEA: Leveraging Limitations"
 subtitle: "Got something really sucky in your life?"
 author: "Valeria"
 avatar: "img/authors/val.jpg"
-image: "img/cancer.jpg"
+image: "img/limitation.jpg"
 date:   2017-02-24 12:12:12
 ---
 
@@ -17,3 +17,5 @@ I recommend a read for sure.
 
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum sdfkasdf
+
+*[Photo: Monsterrat, Spain]*

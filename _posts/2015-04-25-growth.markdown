@@ -1,6 +1,6 @@
 ---
 title:  "IDEA: Monitoring Growth"
-subtitle: "Here's a chart I fill out weekly."
+subtitle: "Here's a chart to fill out weekly"
 author: "Valeria"
 avatar: "img/authors/val.jpg"
 image: "img/mountain.jpg"
@@ -72,3 +72,5 @@ This is an unavoidable, absolutely mandatory event every single week.
 So far it's been working out great. I feel far more satisfaction from life because I can very tangibly evaluate my progress and my failures.
 
 I highly recommend doing this - I spend about 30 min on it. And honestly it's pretty fun to do once you get started.
+
+*[Photo: Pacaya Volcano in Guatemala]*

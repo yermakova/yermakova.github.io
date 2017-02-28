@@ -1,9 +1,9 @@
 ---
-title:  "IDEA: Web Security"
-subtitle: "Simple protections do you don't ruin your life"
+title:  "TRAVEL: Don't have money, where should I go?"
+subtitle: "Travel to Asia"
 author: "Valeria"
 avatar: "img/authors/val.jpg"
-image: "img/vest.jpg"
+image: "img/asia.jpg"
 date:   2015-04-25 12:12:12
 ---
 
@@ -12,3 +12,5 @@ sadf
 
 ### Aliquam suscipit.
 sadf
+
+*[Photo: Seoul, Korea]*
