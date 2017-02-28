@@ -7,21 +7,21 @@ image: "img/backpack.jpg"
 date:   2017-02-28 12:12:12
 ---
 
-### Packing light is incredible.
+## Packing light is incredible.
 
-Seriously, having less stuff to schept around makes a trip 10x better. Especially if you like to stay flexible and go on adventures instead of planning everything ahead of time (not that there is anything wrong with planning).
+Seriously, having less stuff to schlep around makes a trip 10x better. Especially if you like to stay flexible and go on adventures instead of planning everything ahead of time (not that there is anything wrong with planning).
 
 Below I will post my full packing list of what I brought in a single 32L backpack for one month through Central America. This bag could have lasted me forever though, just with washes every two weeks. 
 
 > Also, a key to my succesful packing was the ideal packing 'cube'. I couldn't find any on the market that didn't take up a ton of space and was affordable. Eagle Creek has some really nice looking ones if you want to shell out $40 or so, but that was a bit steep for a little bag for me. So instead my mom made me some. They are so awesome (unbiased opinion) that I convinced her to put them on [Etsy](https://www.etsy.com/listing/496060806/ultimate-affordable-packing-cube?ref=shop_home_active_1). I use them at home even to store scarves and other things.  
 
-Another key to this trip is that the whole time I was between 45 - 85 degree weather (7.2 to 29.4 degrees Celcius). So I had things to layer but nothing to withstand a European winter. 
+Another key to this trip is that the whole time I was between 45 - 85 degree weather (7 to 30 degrees Celcius). So I had things to layer but nothing to withstand a European winter. 
 
 ------
 
-### How to get in, get around and not be stranded with a disease
+## How to get in, get around and not be stranded with a disease
 
-**Step 1: Visas, Vaccines, Weather, Insurance, Transportation**
+### **Step 1: Visas, Vaccines, Weather, Insurance, Transportation**
 
 **Visas**: For American citizens, you don't have to worry about visas to most places in the America's
 
@@ -35,9 +35,9 @@ Another key to this trip is that the whole time I was between 45 - 85 degree wea
 
 --------
 
-### Don't get Zika/Plague
+## Don't get Zika/Plague
 
-**Step 2: Mosquito/Bug Preparation**
+### **Step 2: Mosquito/Bug Preparation**
 
 This is crucial and there's a smart way to do it. Personally I would really not like malaria, yellow fever, Zika or whatever other plague mosquitos carry, so I've done a lot of research.
 
@@ -58,9 +58,9 @@ REI sells a cream and a spray, both carry-on compliant. I got both in my eagerne
 
 --------
 
-### Have stuff
+## Have stuff
 
-**Step 3: Packing Clothes**
+### **Step 3: Packing Clothes**
 
 The goal here is to pack clothes that are super durable and don't get stinky fast. Cotton, polyester, etc all get smelly quickly. The key here is to get merino wool. It's annoyingly expensive, but it's worth it. You can wear the same shirt for days if not weeks (sweating in it etc) and it doesn't smell at all.
 
@@ -69,7 +69,7 @@ The goal here is to pack clothes that are super durable and don't get stinky fas
 
 <a>
   <img src='https://lh3.googleusercontent.com/SH53saLAj_pRWeaXPA-J4xwXQ1yccGxdT5_qo5dPhy86XyV69JdVdABmpNgg0xKefoQUrJl10OtsXuyOUHK_37VtDe3ynvFD5GAj57kxL4_2-yV8Ci61zex4brQmwYVVG--_g405hyEVU3YNWJCSTttYFbjbc79ZO289424SyFKLSuvh9_EYXQPeOF27mfPHHDP4JYFHohUBFuH4NJG6OzH9oNFL1OA_BUUG-us-In5JjHpjz7FOk4B2cBHrkDsX-qxoYFo5ue7T192N6ttO-DWA3lHLrmh4CdTRtdO1abqOvwC_VfWpkHPTN02FR6afbQBMP44IzFloIJovUf9N6SL03_GSG_oC5pL-lsU41DXuXXrphmSF0uOmEFMh2RCmXBoRwElBg3sASe2nwu8ohfZa9qgzCwegByu5LXqIVI0Lrqo_G_XkORL8w8YH-ZpPiYcdWKCEd9T1wXGBg2B3U1OQWnVN0vCXWICGBByZZMXs85mPN-rILX03Kz9KtgQQQgKLI1d33e_1MZ73h-xkDaQTYGEztXVjWIGZQRuYsz0d_CEgai9XiWManvWuJCeqJjnzkZWi52AK63aSx-2NS3HJ50N4aH7-b_ZTSyIZbuNkP0NzgA=w906-h1208-no' style='width: 340px'>
-  <div style='width: 330px; text-align: center;'>Here's a picture of the pocket my mom sewed in for my passport. It went on the inside of my bra, so that half of it was hidden by the sports bra itself.'</div>
+  <div style='width: 330px; text-align: center;'>Here's a picture of the pocket my mom sewed in for my passport. It went on the inside of my bra, so that half of it was hidden by the sports bra itself.</div>
 
  
 *Tops*

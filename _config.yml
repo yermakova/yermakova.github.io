@@ -1,7 +1,7 @@
 # Site settings
 title: Val's Blog
 description: Ideas, Experiments, Travel Tips
-keywords: Modern, Blogging, Fun
+keywords: Ideas, Experiements, Travel Tips, Blog
 author: Valeria
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
