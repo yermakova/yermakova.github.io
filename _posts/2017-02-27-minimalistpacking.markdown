@@ -1,6 +1,6 @@
 ---
 title:  "TRAVEL: One Backpack Is All You Need"
-subtitle: "How to pack lightly and efficiently"
+subtitle: "How to pack & do bug repellant correctly"
 author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/backpack.jpg"
