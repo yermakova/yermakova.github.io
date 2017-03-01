@@ -22,7 +22,7 @@ I spent a month there and nothing sketchy ever happened. Excluding, of course, t
 
 <a>
   <img src='http://i.imgur.com/MQB4Flz.jpg?2' style='width: 540px'>
-  <div style='width: 330px; text-align: center;'>Taken as I rode in a truck that looked just like the one in front of us...</div>
+  <div style='width: 530px; text-align: center;'>Taken as I rode in a truck that looked just like the one in front of us...</div>
 
 However I was never robbed or felt threatened in any way. I never saw a bus being stopped or any guns at all actually. But that may be because I purposefully opted to only take day time buses (not overnight ones) and I was extra aware. But keeping that in mind, I also overheard a European who'd been traveling Central America for a while talk about how much he loves overnight buses because you save on a night of sleep. So I'm guessing nothing bad happened to him thus far. 
 
