@@ -20,6 +20,10 @@ My friends in those countries (as well as the locals I met living in that region
 
 I spent a month there and nothing sketchy ever happened. Excluding, of course, the transportation. That is legit incredibly dangerous because they drive with pickup trucks packed full of people and on crazy windy rocky roads. While I definitely recommend people to visit Central America, I *do not* recommend you bring children. I saw several parents there with their kids but man, if I had kids, I would not take them there. The transportation system is a death trap.
 
+<a>
+  <img src='http://imgur.com/MQB4Flz' style='width: 340px'>
+  <div style='width: 330px; text-align: center;'>Taken as I rode in a truck that looked just like the one in front of us...</div>
+
 However I was never robbed or felt threatened in any way. I never saw a bus being stopped or any guns at all actually. But that may be because I purposefully opted to only take day time buses (not overnight ones) and I was extra aware. But keeping that in mind, I also overheard a European who'd been traveling Central America for a while talk about how much he loves overnight buses because you save on a night of sleep. So I'm guessing nothing bad happened to him thus far. 
 
 I saw gang graffiti, but nothing more than you would see around the Bay Area in California.
