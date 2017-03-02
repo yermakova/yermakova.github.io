@@ -1,6 +1,6 @@
 ---
 title:  "IDEA: Can I Open Up a Microwave Early?"
-subtitle: "Here's what the research says"
+subtitle: "Here's what I've found after several hours of Googling"
 author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/microwave.jpg"
