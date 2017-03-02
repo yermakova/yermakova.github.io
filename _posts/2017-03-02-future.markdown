@@ -27,11 +27,11 @@ I'm a little obsessed with fitness and body metrics so this makes me feel like:
 
 I dream about the day when I will be able to monitor the chemical compostition of everything I ingest and test is against what's optimal for my body health. 
 
-One of my biggest pet peves is when people makes claims about metabolism (eat smaller meals throughout the day, make sure to eat breakfast, etc) when I know they know nothing about it since the scientific community as a whole knows barely anything about it. All cutting edge research even on stuff like [mTOR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4128044/) sounds incredible, but then you realize it's got a nasty side and some bodies degrade faster with higher levels of mTOR. Also everybody responds differently. To maintain good health and a good weight some people should eat breakfast and some people shouldn't. You can't just make a blanket statement that 'breakfast is the most important meal of the day'.
+One of my biggest pet peeves is when people make claims about the metabolism (eat smaller meals throughout the day, make sure to eat breakfast, etc) when I know they know nothing about it since the scientific community as a whole knows barely anything about it. Even cutting edge research on stuff like [mTOR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4128044/) sounds incredible, but then you realize it's got a nasty side and some bodies degrade faster with higher levels of mTOR. Also everybody responds differently. To maintain good health and a good weight some people should eat breakfast and some people shouldn't. You can't just make a blanket statement that 'breakfast is the most important meal of the day'.
 
-But if we could do complete genetic sequencing and monitoring of chemical intake, we could optimize *everything*.
+But if we could do complete genetic sequencing and monitoring of chemical intake, we could theoretically optimize *everything*.
 
-If you then incorporate that into internet connected contact lenses or glasses that let me know 'hey Val, cheese is a no-go for you, but try those brussel sprouts' everytime I go to Trader Joe's, it would be incredible and lifechanging.
+If you then incorporate that into internet connected contact lenses or glasses that let me know 'hey Val, broccoli is a no-go for you, but try brussel sprouts' everytime I go to Trader Joe's, it would be incredible and lifechanging.
 
 There are obvious security issues and threats with all of this. This is a lot of information that a computer is going to be holding. And I don't want anyone to have access to my health data as much as the next person, but with proper security measures, wow these innovations would be spectacular. 
 
