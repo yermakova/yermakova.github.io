@@ -1,6 +1,6 @@
 ---
 title:  "TRAVEL: One Backpack Is All You Need"
-subtitle: "How to pack & do bug repellant correctly"
+subtitle: "How to pack & do bug repellent correctly"
 author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/backpack.jpg"
@@ -44,6 +44,8 @@ This is crucial and there's a smart way to do it. Personally I would really not 
 **Part 1: Clothing**
 
 Yes, you should spray your clothes. No, the stuff that you spray on your body does not work on your clothes.
+
+For clothes use Permethrin. For body, use DEET or Picaridin.
 This is because the Permethrin actually kills the bugs. DEET and anything else for your body merely masks your body. So on DEET, etc, you are invisible to most insects. On Permethrin you are literally death to them.
 
 But don't put it on your body. Not a great idea to put stuff that kills other stuff on your largest organ.
