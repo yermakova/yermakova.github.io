@@ -60,4 +60,4 @@ So even doing this for such a short period of time made an improvement in my thi
 
 
 
-*[Photo: ]*
+*[Photo: On a decomissioned warplane in Australia]*
