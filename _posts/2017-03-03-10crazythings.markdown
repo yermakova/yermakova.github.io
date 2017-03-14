@@ -13,7 +13,7 @@ Yeah, definitely. The experiment was meant to last for only 3 days but today is 
 
 Why?
 
-Because I found that after thinking of these ideas, new ones would come much more naturally to me - without even trying. When I was sitting on bart (the metro system in the Bay Area, California) for example, instead of just sitting there and thinking about how lame Bay Area mass transit it compared to Europe or Asia, I started thinking of solutions. I didn't force myself to do that, it's like my brain just naturally thought of ways to make it better.
+Because I found that after thinking of these ideas, new ones would come much more naturally to me - without even trying. When I was sitting on bart (the metro system in the Bay Area, California) for example, instead of just sitting there and thinking about how lame Bay Area mass transit is compared to Europe or Asia, I started thinking of solutions. I didn't force myself to do that, it's like my brain just naturally thought of ways to make it better.
 
 So even doing this for such a short period of time made an improvement in my thinking.
 
