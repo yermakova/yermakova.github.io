@@ -1,6 +1,6 @@
 ---
-title:  "IDEA: Why am I Such an Adrenaline Junkie?"
-subtitle: "Hint: It's not because I have a poor sense of self-preservation"
+title:  "IDEA: Adrenaline Junkie?"
+subtitle: "Not just a poor sense of self-preservation"
 author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/levitate.jpg"
