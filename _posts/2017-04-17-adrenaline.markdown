@@ -3,7 +3,7 @@ title:  "IDEA: Adrenaline Junkie?"
 subtitle: "Not just a poor sense of self-preservation"
 author: "Valeria"
 avatar: "img/val.jpg"
-image: "img/levitatec.jpg"
+image: "img/vietnam.jpg"
 date:   2017-04-17 12:12:12
 ---
 
