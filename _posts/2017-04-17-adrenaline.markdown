@@ -5,6 +5,7 @@ author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/motobike.jpg"
 date:   2017-04-17 12:12:12
+tag: "idea"
 ---
 
 # Focus 

@@ -5,6 +5,7 @@ author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/limitation.jpg"
 date:   2017-03-14 12:12:12
+tag: "idea"
 ---
 
 ## Limitations
