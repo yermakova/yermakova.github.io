@@ -4,9 +4,9 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 <head>
-	
+
 	<meta name="google-site-verification" content="199_iYFbo1oT8TvSqD_PkGbe56X6ODvgO2cVjjFIJOo" />
-	
+
     <meta charset="UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,15 +30,106 @@ layout: compress
 </head>
 <body class="body">
 <div class="container">
+    
     <header class="header">
         <h1>Val's Blog<span>Ideas, Experiments, Travel Tips</span></h1>
-      
-    </header>
-    <div class="content">
+        
+    
+        <!-- function call for  -->
+		<div class="dropdown">
+  		<button class="dropbtn" onclick="filter_all()">Categories</button>
+  		<div class="dropdown-content">
+    		<p id = "ideas"> Ideas </p>
+            <p id = "expmt"> Experiements </p>
+            <p id = "travels"> Travel Tips </p>
+  		</div>
+		</div>
+    
+        <script>
+            var ideas = document.getElementById('ideas'), expmt = document.getElementById('expmt'), travel = document.getElementById('travels');
+            function filter_all() {
+                document.getElementById("all").style.display = "initial";
+                document.getElementById("experiment").style.display = "none";
+                document.getElementById("travel").style.display = "none";
+                document.getElementById("idea").style.display = "none";
+            }
+            ideas.onclick = function() {
+                document.getElementById("all").style.display = "none";
+                document.getElementById("experiment").style.display = "none";
+                document.getElementById("travel").style.display = "none";
+                document.getElementById("idea").style.display = "initial";
+            };
+            expmt.onclick = function() {
+                document.getElementById("all").style.display = "none";
+                document.getElementById("experiment").style.display = "initial";
+                document.getElementById("travel").style.display = "none";
+                document.getElementById("idea").style.display = "none";
+            };
+            travel.onclick = function() {
+                document.getElementById("all").style.display = "none";
+                document.getElementById("experiment").style.display = "none";
+                document.getElementById("travel").style.display = "initial";
+                document.getElementById("idea").style.display = "none";
+            };
+        </script>
+        
+
+    </header>    
+
+    <div class="content" id="idea">
+        
         <!-- trianglify pattern container -->
         <div class="pattern pattern--hidden"></div>
         <!-- cards -->
         <div class="wrapper">
+            
+            
+            
+            {% for post in site.posts %}
+            {% if post.tag == "idea" %}
+            <div class="card" data-id="{{ post.id }}">
+                <div class="card__container card__container--closed">
+                    <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
+                         preserveAspectRatio="xMidYMid slice">
+                        <defs>
+                            <clipPath id="{{ post.id }}-clip-path">
+                                <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
+                            </clipPath>
+                        </defs>
+                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
+                               xlink:href="{{ post.image }}"></image>
+                    </svg>
+                    <div class="card__content">
+                        <i class="card__btn-close fa fa-times"></i>
+                        <div class="card__caption">
+                            <h2 class="card__title">{{ post.title }}</h2>
+                            <p class="card__subtitle">{{ post.subtitle }}</p>
+                        </div>
+                        <div class="card__copy">
+                            <div class="meta">
+                                <img class="meta__avatar" src="{{ post.avatar }}"/>
+                                <span class="meta__author">{{ post.author }}</span>
+                                <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                            </div>
+                            {{ post.content }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+            <!-- /cards -->
+        </div>
+    </div>
+    
+
+    <div class="content" id="all">
+        
+        <!-- trianglify pattern container -->
+        <div class="pattern pattern--hidden"></div>
+        <!-- cards -->
+        <div class="wrapper">        
             {% for post in site.posts %}
             <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
@@ -74,6 +165,104 @@ layout: compress
             <!-- /cards -->
         </div>
     </div>
+    
+    
+    <div class="content" id="experiment">
+        
+        <!-- trianglify pattern container -->
+        <div class="pattern pattern--hidden"></div>
+        <!-- cards -->
+        <div class="wrapper">
+            
+            
+            
+            {% for post in site.posts %}
+            {% if post.tag == "experiment" %}
+            <div class="card" data-id="{{ post.id }}">
+                <div class="card__container card__container--closed">
+                    <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
+                         preserveAspectRatio="xMidYMid slice">
+                        <defs>
+                            <clipPath id="{{ post.id }}-clip-path">
+                                <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
+                            </clipPath>
+                        </defs>
+                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
+                               xlink:href="{{ post.image }}"></image>
+                    </svg>
+                    <div class="card__content">
+                        <i class="card__btn-close fa fa-times"></i>
+                        <div class="card__caption">
+                            <h2 class="card__title">{{ post.title }}</h2>
+                            <p class="card__subtitle">{{ post.subtitle }}</p>
+                        </div>
+                        <div class="card__copy">
+                            <div class="meta">
+                                <img class="meta__avatar" src="{{ post.avatar }}"/>
+                                <span class="meta__author">{{ post.author }}</span>
+                                <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                            </div>
+                            {{ post.content }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+            <!-- /cards -->
+        </div>
+    </div>
+    
+    
+    
+    <div class="content" id="travel">
+        
+        <!-- trianglify pattern container -->
+        <div class="pattern pattern--hidden"></div>
+        <!-- cards -->
+        <div class="wrapper">
+            
+            {% for post in site.posts %}
+            {% if post.tag == "travel" %}
+            <div class="card" data-id="{{ post.id }}">
+                <div class="card__container card__container--closed">
+                    <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
+                         preserveAspectRatio="xMidYMid slice">
+                        <defs>
+                            <clipPath id="{{ post.id }}-clip-path">
+                                <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
+                            </clipPath>
+                        </defs>
+                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
+                               xlink:href="{{ post.image }}"></image>
+                    </svg>
+                    <div class="card__content">
+                        <i class="card__btn-close fa fa-times"></i>
+                        <div class="card__caption">
+                            <h2 class="card__title">{{ post.title }}</h2>
+                            <p class="card__subtitle">{{ post.subtitle }}</p>
+                        </div>
+                        <div class="card__copy">
+                            <div class="meta">
+                                <img class="meta__avatar" src="{{ post.avatar }}"/>
+                                <span class="meta__author">{{ post.author }}</span>
+                                <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                            </div>
+                            {{ post.content }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+            {% endfor %}
+            <!-- /cards -->
+        </div>
+    </div>
+    
+
+    
     <!-- /container -->
 </div>
 <!-- JS -->
@@ -97,4 +286,3 @@ layout: compress
   ga('send', 'pageview');
 
 </script>
-  
