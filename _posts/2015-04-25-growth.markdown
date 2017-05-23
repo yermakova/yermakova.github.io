@@ -5,6 +5,7 @@ author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/mountain.jpg"
 date:   2017-02-26 12:12:12
+tag: "idea"
 ---
 
 Here's something I wrote in a blog about 4 years ago that I still use:
