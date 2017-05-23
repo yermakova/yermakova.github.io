@@ -64,16 +64,17 @@ layout: compress
 
     </header>    
 
-
-    
-
-    <div class="content">
+    <div class="content" id="idea">
         
         <!-- trianglify pattern container -->
         <div class="pattern pattern--hidden"></div>
         <!-- cards -->
-        <div class="wrapper">        
+        <div class="wrapper">
+            
+            
+            
             {% for post in site.posts %}
+            {% if post.tag == "idea" %}
             <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
                     <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
@@ -104,13 +105,12 @@ layout: compress
                     </div>
                 </div>
             </div>
+            {% endif %}
             {% endfor %}
             <!-- /cards -->
         </div>
     </div>
     
-    
-
     
     <!-- /container -->
 </div>
