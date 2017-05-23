@@ -1,6 +1,6 @@
 ---
 title:  "TRAVEL: One Backpack Is All You Need"
-subtitle: "How to pack lightly and efficiently"
+subtitle: "How to pack & do bug repellent correctly"
 author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/backpack.jpg"
@@ -45,6 +45,8 @@ This is crucial and there's a smart way to do it. Personally I would really not 
 **Part 1: Clothing**
 
 Yes, you should spray your clothes. No, the stuff that you spray on your body does not work on your clothes.
+
+For clothes use Permethrin. For body, use DEET or Picaridin.
 This is because the Permethrin actually kills the bugs. DEET and anything else for your body merely masks your body. So on DEET, etc, you are invisible to most insects. On Permethrin you are literally death to them.
 
 But don't put it on your body. Not a great idea to put stuff that kills other stuff on your largest organ.
@@ -69,7 +71,7 @@ The goal here is to pack clothes that are super durable and don't get stinky fas
 
 
 <a>
-  <img src='https://lh3.googleusercontent.com/SH53saLAj_pRWeaXPA-J4xwXQ1yccGxdT5_qo5dPhy86XyV69JdVdABmpNgg0xKefoQUrJl10OtsXuyOUHK_37VtDe3ynvFD5GAj57kxL4_2-yV8Ci61zex4brQmwYVVG--_g405hyEVU3YNWJCSTttYFbjbc79ZO289424SyFKLSuvh9_EYXQPeOF27mfPHHDP4JYFHohUBFuH4NJG6OzH9oNFL1OA_BUUG-us-In5JjHpjz7FOk4B2cBHrkDsX-qxoYFo5ue7T192N6ttO-DWA3lHLrmh4CdTRtdO1abqOvwC_VfWpkHPTN02FR6afbQBMP44IzFloIJovUf9N6SL03_GSG_oC5pL-lsU41DXuXXrphmSF0uOmEFMh2RCmXBoRwElBg3sASe2nwu8ohfZa9qgzCwegByu5LXqIVI0Lrqo_G_XkORL8w8YH-ZpPiYcdWKCEd9T1wXGBg2B3U1OQWnVN0vCXWICGBByZZMXs85mPN-rILX03Kz9KtgQQQgKLI1d33e_1MZ73h-xkDaQTYGEztXVjWIGZQRuYsz0d_CEgai9XiWManvWuJCeqJjnzkZWi52AK63aSx-2NS3HJ50N4aH7-b_ZTSyIZbuNkP0NzgA=w906-h1208-no' style='width: 340px'>
+  <img src='http://i.imgur.com/hKpvMJp.jpg' style='width: 340px'>
   <div style='width: 330px; text-align: center;'>Here's a picture of the pocket my mom sewed in for my passport. It went on the inside of my bra, so that half of it was hidden by the sports bra itself.</div>
 
  
