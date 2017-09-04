@@ -5,6 +5,7 @@ author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/backpack.jpg"
 date:   2017-02-28 12:12:12
+tag: "travel"
 ---
 
 ## Packing light is incredible.

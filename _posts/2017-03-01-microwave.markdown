@@ -5,6 +5,7 @@ author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/microwave.jpg"
 date:   2017-03-02 12:12:12
+tag: "idea"
 ---
 
 Here's what I've found from reading posts and papers from sources that seemed credible (ie; no Yahoo Answers or 'Healthy Homeopathic Website'-like posts). I tried really hard to find answers that were paired with peer-reviewed science. 

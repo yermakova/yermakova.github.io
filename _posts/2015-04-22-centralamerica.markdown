@@ -5,6 +5,7 @@ author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/ca.jpg"
 date:   2017-02-27 12:12:12
+tag: "travel"
 ---
 
 ### Yes

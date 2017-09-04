@@ -5,6 +5,7 @@ author: "Valeria"
 avatar: "img/val.jpg"
 image: "img/vest.jpg"
 date:   2017-02-27 12:12:12
+tag: "idea"
 ---
 
 ## Online security is all the rage nowadays because no one wants to get hacked, but most normal people don't know even the basic stuff, so I want to help out.
