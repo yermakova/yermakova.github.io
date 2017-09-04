@@ -1,5 +1,5 @@
 ---
-title:  "IDEA: Sweat Out Your Toxins"
+title:  "IDEA: 'Sweat Out Your Toxins'"
 subtitle: "Bet you $100 someone has told you it's good for you"
 author: "Valeria"
 avatar: "img/val.jpg"
