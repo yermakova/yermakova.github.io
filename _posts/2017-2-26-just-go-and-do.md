@@ -5,7 +5,6 @@ author: val
 tags: [satisfaction, growth, experiment]
 image: '/images/posts/goanddo.jpg'
 ---
-2017-02-26
 
 ##### Something I tell myself everyday.
 
