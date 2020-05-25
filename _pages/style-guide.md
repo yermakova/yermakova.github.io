@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: page
 title: Style Guide
 image: '/images/pages/9.jpg'
----
+--- -->
 
 At [Aspire Themes](http://aspirethemes.com/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
 
