@@ -1,11 +1,47 @@
 ---
 layout: page
 title: About
-image: '/images/pages/1.jpg'
+image: '/images/pages/hi.jpg'
 ---
 
-You love minimalism, want to be productive focusing only on the important things and want to take jekyll to the next level, Nubia is designed for you. Nubia focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+# Hi, I'm Val.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I use this blog to document random thoughts I have.
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+My favorite discussions topics include:
+* Psycology and neuroscience
+* Biology and chemistry (worked in a melanoma lab)
+* International politics, particularly of Asian countries (cumulatively have spent years writing papers on Asian policies)
+* Plants (I honestly just love foliage...)
+
+![mtn](/images/pages/mtn.jpg)
+
+I'm also into athletics. Circus tricks and handstands are the current obsession. 
+
+<div style="display: flex; flex-flow: row nowrap; ">
+
+<img src="/images/straps.gif" alt="straps" height="400" />
+
+<div style="margin: 0 8px;"></div>
+
+<img src="/images/pages/handstand.jpg" alt="handstand" height="400" />
+
+<div style="margin: 0 8px;"></div>
+
+<img src="/images/lyra.gif" alt="lyra" height="400" />
+
+</div>
+
+<br> 
+
+but previously I was a competitive figure skater and wrestler
+
+<div style="display: flex; flex-flow: row nowrap; ">
+
+<img src="/images/skating.gif" alt="skating" height="400" />
+
+<div style="margin: 0 8px;"></div>
+
+<img src="/images/wrestling.gif" alt="wrestling" height="400" />
+
+</div>
