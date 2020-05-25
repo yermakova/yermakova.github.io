@@ -13,7 +13,11 @@ When you stop moving, when you stop trying, then you stop learning. And if you s
 
 ##### What the heck do I mean?
 
- > “Eh, I feel lazy” | “The people there will be lame anyways” | “I just don’t feel like it” | “But…Netflix” | “I would have to put on pants” | “There is nothing to do, I’m so bored” | “It’s going to be awkward, I don’t know anyone”
+ > “Eh, I feel lazy” | "The people there will be lame anyways” | “I just don’t feel like it” 
+
+ > “But…Netflix” | “I would have to put on pants” | “There is nothing to do, I’m so bored” 
+ 
+ > “It’s going to be awkward, I don’t know anyone”
 
 Sound familiar?
 
