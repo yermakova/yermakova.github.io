@@ -8,21 +8,12 @@ image: '/images/posts/sf.jpg'
 
 ##### The government supported American Dream of home-ownership was incredibly myopic 
 
-Duis id ante elit. Aliquam quis tellus id orci eleifend finibus. Donec consequat justo ligula, eget sodales purus hendrerit at.
+> People don’t question that buying a home is a good thing, it’s just something they’ve always been told and now assume to be true
 
-1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
-2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in, pellentesque vel urna.
-    Donec nibh massa, rutrum a sollicitudin eu,
-lacinia in lorem.
+After WWII the US has a bunch of programs to incentivize home-ownership. This resulted in, you guessed it, a bunch more home-ownership.
 
-##### Graphic design
+The problem with this was that once people got their homes, they became really adamant about maximizing the growth of their property value retaining their small-town feel. You can’t blame them, anyone would want that. However, the population kept growing and high-density areas (cities) became even higher density.
 
-> Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. — George Santayana
+So now we are stuck with a bunch of homeowners that fight all legislation to “build up” and have taller buildings with apartment complexes. This limits the supply of housing and pushes housing prices astronomically high.
 
-Vim te case nihil oblique, has partem interpretaris ne, ad admodum accusamus nam. Usu utinam dissentias referrentur ne, vim accusam voluptua pertinacia no. Est no posse utinam inermis, brute errem mentitum et ius, te prompta albucius quo. In pro simul soleat regione.
-
-![alt](https://static.pexels.com/photos/6454/nature-flowers-summer-branches-large.jpg)
-
-Ne reque offendit singulis mea, ad eos ferri doming nostrud. Duis suscipit usu ut, fuisset pericula ex est, et porro prompta his. Audire definiebas voluptatibus et duo, aperiam ocurreret ad nec. Vel ad nostrud principes. Ad liber congue iracundia sed, eirmod erroribus eam te, has veniam epicurei ea.
-
-Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.
+Welcome the Millenial generation who have no affordable homes to live in.
