@@ -4,7 +4,7 @@ title: About
 image: '/images/pages/hi.jpg'
 ---
 
-# Hi, I'm Val.
+# Hi, I'm Val Yermakova.
 
 I use this blog to document random thoughts I have.
 
@@ -45,5 +45,5 @@ but previously I was a competitive figure skater and wrestler
 <img src="/images/posts/wrestling.gif" alt="wrestling" height="400" />
 
 </div>
-
+<br>
 Pardon the poorly spaced images and exceptionally slow gifs. CSS isn't my thing.
