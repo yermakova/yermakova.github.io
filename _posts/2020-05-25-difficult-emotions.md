@@ -5,8 +5,10 @@ author: Val
 tags: [psycology]
 image: '/images/posts/drowning.jpg'
 ---
+# People love avoiding negative emotions
 
 I originally created this mini-workshop for my startup teammates for our weekly mental health check-ins. 
+
 *FYI: Steve is not real, this is just an example.*
 
 --- 
