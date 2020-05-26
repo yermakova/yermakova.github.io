@@ -12,7 +12,7 @@ My favorite discussions topics include:
 * Psycology and neuroscience
 * Biology and chemistry (worked in a melanoma lab)
 * International politics, particularly of Asian countries (cumulatively have spent years writing papers on Asian policies)
-* Plants (I honestly just love foliage...)
+* Environmental science (I really like trees)
 
 ![mtn](/images/pages/mtn.jpg)
 
@@ -45,3 +45,5 @@ but previously I was a competitive figure skater and wrestler
 <img src="/images/posts/wrestling.gif" alt="wrestling" height="400" />
 
 </div>
+
+Pardon the poorly spaced images and exceptionally slow gifs. CSS isn't my thing.
