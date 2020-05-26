@@ -18,7 +18,7 @@ Write down something about another teammate that causes you to feel a negative e
 * Frustration
 * Annoyance
 * Jealousy
-* Disappointment
+* Disappointment 
 
 Example: I feel anger when Steve micromanages my slide deck designs.
 
