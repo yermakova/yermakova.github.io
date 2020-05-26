@@ -20,7 +20,7 @@ I'm also into athletics. Circus tricks and handstands are the current obsession.
 
 <div style="display: flex; flex-flow: row nowrap; ">
 
-<img src="/images/straps.gif" alt="straps" height="400" />
+<img src="/images/posts/straps.gif" alt="straps" height="400" />
 
 <div style="margin: 0 8px;"></div>
 
@@ -28,7 +28,7 @@ I'm also into athletics. Circus tricks and handstands are the current obsession.
 
 <div style="margin: 0 8px;"></div>
 
-<img src="/images/lyra.gif" alt="lyra" height="400" />
+<img src="/images/posts/lyra.gif" alt="lyra" height="400" />
 
 </div>
 
@@ -38,10 +38,10 @@ but previously I was a competitive figure skater and wrestler
 
 <div style="display: flex; flex-flow: row nowrap; ">
 
-<img src="/images/skating.gif" alt="skating" height="400" />
+<img src="/images/posts/skating.gif" alt="skating" height="400" />
 
 <div style="margin: 0 8px;"></div>
 
-<img src="/images/wrestling.gif" alt="wrestling" height="400" />
+<img src="/images/posts/wrestling.gif" alt="wrestling" height="400" />
 
 </div>
