@@ -2,7 +2,7 @@
 layout: post
 title: Why is looking at people watch TV, depressing?
 author: Val
-tags: [psycology]
+tags: [psychology]
 image: '/images/posts/tvs.jpg'
 ---
 

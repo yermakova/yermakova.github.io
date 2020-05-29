@@ -2,7 +2,7 @@
 layout: post
 title: "What am I most afraid of"
 author: Val
-tags: [psycology]
+tags: [psychology]
 image: '/images/posts/art-fear.jpg'
 ---
 ## If you're feeling grumpy and snappy most of the time, you're likely stressed

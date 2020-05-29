@@ -3,7 +3,7 @@ layout: post
 title: Monitoring Growth
 featured: true
 author: val
-tags: [growth, existential crisis, productivity]
+tags: [growth]
 image: '/images/posts/monitoring-growth.jpg'
 ---
 

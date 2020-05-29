@@ -2,7 +2,7 @@
 layout: post
 title: Adrenaline Junkie?
 author: Val
-tags: [psycology]
+tags: [psychology]
 image: '/images/posts/skydiving.jpg'
 ---
 

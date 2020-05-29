@@ -2,7 +2,7 @@
 layout: post
 title: Just Go and Do; Sounds stupid, but it's hard
 author: val
-tags: [satisfaction, growth, experiment]
+tags: [growth]
 image: '/images/posts/goanddo.jpg'
 ---
 
