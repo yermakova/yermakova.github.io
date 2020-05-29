@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What am I most afriad of"
+title: "What am I most afraid of"
 author: Val
 tags: [psycology]
 image: '/images/posts/art-fear.jpg'
