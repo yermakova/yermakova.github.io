@@ -18,32 +18,4 @@ My favorite discussions topics include:
 
 I'm also into athletics. Circus tricks and handstands are the current obsession. 
 
-<div style="display: flex; flex-flow: row nowrap; ">
-
-<img src="/images/posts/straps.gif" alt="straps" height="400" />
-
-<div style="margin: 0 8px;"></div>
-
-<img src="/images/pages/handstand.jpg" alt="handstand" height="400" />
-
-<div style="margin: 0 8px;"></div>
-
-<img src="/images/posts/lyra.gif" alt="lyra" height="400" />
-
-</div>
-
-<br> 
-
-but previously I was a competitive figure skater and wrestler
-
-<div style="display: flex; flex-flow: row nowrap; ">
-
-<img src="/images/posts/skating.gif" alt="skating" height="400" />
-
-<div style="margin: 0 8px;"></div>
-
-<img src="/images/posts/wrestling.gif" alt="wrestling" height="400" />
-
-</div>
-<br>
-Pardon the poorly spaced images and exceptionally slow gifs. CSS isn't my thing.
+{% include about_gifs.html %}
