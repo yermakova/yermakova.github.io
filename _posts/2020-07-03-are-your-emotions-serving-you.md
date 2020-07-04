@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Are your emotions serving you?
