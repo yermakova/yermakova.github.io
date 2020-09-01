@@ -1,0 +1,16 @@
+{% if page.url == '/' or page.url contains 'tag' %}
+<div class="o-grid--center">
+    <li onclick="goToTag('leadership')" class="c-nav__item">
+        <a class="c-nav__link c-filter">Leadership</a>
+    </li>
+    <li onclick="goToTag('Book Reviews')" class="c-nav__item">
+        <a class="c-nav__link c-filter">Book Reviews</a>
+    </li>
+    <li onclick="goToTag('Carpe Diem')" class="c-nav__item c-filter">
+        <a class="c-nav__link">Carpe Diem</a>
+    </li>
+    <li onclick="goToTag('Misc Musings')" class="c-nav__item c-filter">
+        <a class="c-nav__link">Misc Musings</a>
+    </li>
+</div>
+{% endif %}

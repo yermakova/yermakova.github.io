@@ -1,4 +1,4 @@
-<li class='c-nav__item {% if page.url == '/' %} c-nav__current-page {% endif %}'>
+<li onclick="goHome()" class='c-nav__item {% if page.url == '/' %} c-nav__current-page {% endif %}'>
   <a href='{{ site.baseurl }}/' class='c-nav__link'>Posts</a>
 </li>
 
@@ -11,3 +11,4 @@
     {% endif %}
   {% endunless %}
 {% endfor %}
+
