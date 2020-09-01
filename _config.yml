@@ -48,11 +48,10 @@ defaults:
 
 # Authors
 authors:
-  ahmad:
-    name:     Val Yermakova
-    bio:      Co-founder of Warmly; xGoogle security analyst; Fulbright in China; lover of handstands. 
-    gravatar: https://https://secure.gravatar.com/avatar/fa9a1e686aef144d2cb6a95115a2355f
-    email:    v.yerminator+blog@gmail.com
-    website:  http://valy.space
-    github:   https://github.com/yermakova
-    twitter:  https://twitter.com/valyermakova
+  name:     Val Yermakova
+  bio:      Co-founder of Warmly; xGoogle security analyst; Fulbright in China; lover of handstands.
+  gravatar: https://https://secure.gravatar.com/avatar/fa9a1e686aef144d2cb6a95115a2355f
+  email:    v.yerminator+blog@gmail.com
+  website:  http://valy.space
+  github:   https://github.com/yermakova
+  twitter:  https://twitter.com/valyermakova

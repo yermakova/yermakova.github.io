@@ -1,12 +1,12 @@
-<li class='c-nav__item'>
-  <a href='{{ site.baseurl }}/' class='c-nav__link'>Home</a>
+<li class='c-nav__item {% if page.url == '/' %} c-nav__current-page {% endif %}'>
+  <a href='{{ site.baseurl }}/' class='c-nav__link'>Posts</a>
 </li>
 
-{% for page in site.pages %}
-  {% unless page.name == '404.md' %}
-    {% if page.title %}
-      <li class='c-nav__item'>
-        <a href='{{ page.url | prepend: site.baseurl }}' class='c-nav__link'>{{ page.title }}</a>
+{% for currentPage in site.pages %}
+  {% unless currentPage.name == '404.md' %}
+    {% if currentPage.title %}
+      <li class='c-nav__item {% if page.url == '/about.html'> %} c-nav__current-page {% endif %}'>
+        <a href='{{ currentPage.url | prepend: site.baseurl }}' class='c-nav__link'>{{ currentPage.title }}</a>
       </li>
     {% endif %}
   {% endunless %}
