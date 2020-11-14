@@ -3,7 +3,7 @@ layout: post
 title: Monitoring Growth
 featured: true
 author: val
-tags: [growth]
+tags: [Carpe]
 image: '/images/posts/monitoring-growth.jpg'
 ---
 

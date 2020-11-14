@@ -2,7 +2,7 @@
 layout: post
 title: Just Go and Do; Sounds stupid, but it's hard
 author: val
-tags: [growth]
+tags: [Carpe]
 image: '/images/posts/goanddo.jpg'
 ---
 

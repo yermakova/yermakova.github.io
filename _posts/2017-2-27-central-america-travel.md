@@ -2,7 +2,7 @@
 layout: post
 title: Is Central/South America Dangerous?
 author: Val
-tags: [travel]
+tags: [Carpe]
 image: '/images/posts/central-america.jpg'
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Don't recycle your emotions
 author: Val
-tags: [psychology]
+tags: [Psychology]
 image: '/images/posts/recycle-paper.jpg'
 ---
 

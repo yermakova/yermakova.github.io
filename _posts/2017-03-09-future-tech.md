@@ -2,7 +2,7 @@
 layout: post
 title: Future Tech I'm Giddy About
 author: Val
-tags: [tech]
+tags: [Musings]
 image: '/images/posts/foldable-phone.jpg'
 ---
 

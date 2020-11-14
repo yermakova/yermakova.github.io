@@ -2,7 +2,7 @@
 layout: post
 title: Leveraging Limitations
 author: Val
-tags: [psychology]
+tags: [Psychology]
 image: '/images/posts/thinking-hill.jpg'
 ---
 

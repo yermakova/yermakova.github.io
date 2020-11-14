@@ -1,3 +1,7 @@
 .c-filter {
   cursor: pointer;
+
+  &__current-filter {
+    text-decoration: underline;
+  }
 }

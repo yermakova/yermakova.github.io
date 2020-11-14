@@ -2,7 +2,7 @@
 layout: post
 title: Travel – One Backpack Is All You Need
 author: Val
-tags: [travel]
+tags: [Carpe]
 image: '/images/posts/backpack-travel.jpg'
 ---
 

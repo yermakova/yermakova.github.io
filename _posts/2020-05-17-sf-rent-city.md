@@ -2,7 +2,7 @@
 layout: post
 title: A case to make San Francisco a rent-only city
 author: Val
-tags: [social policy]
+tags: [Musings]
 image: '/images/posts/sf.jpg'
 ---
 

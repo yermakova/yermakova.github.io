@@ -2,7 +2,7 @@
 layout: post
 title: Don't have money, where should I travel to? (fun tips inside)
 author: Val
-tags: [travel]
+tags: [Carpe]
 image: '/images/posts/belly-of-the-beast.jpg'
 ---
 

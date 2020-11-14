@@ -2,7 +2,7 @@
 layout: post
 title: Sweat Out Your Toxins – bet you $100 you've heard this before
 author: Val
-tags: [yoga, biochem]
+tags: [Musings]
 image: '/images/posts/backbend-boulder.jpg'
 ---
 
