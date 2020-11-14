@@ -44,6 +44,10 @@
     }
   }
 
+  &__current-page {
+    text-decoration: underline;
+  }
+
   &__link {
     display: block;
     transition: $global-transition;

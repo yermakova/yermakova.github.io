@@ -20,6 +20,11 @@ $grid-gutter: $base-spacing-unit;
     padding: 0;
   }
 
+  &--center {
+    @extend .o-grid;
+    justify-content: center;
+  }
+
   &--full {
     max-width: 100vw;
   }
