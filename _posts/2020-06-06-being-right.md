@@ -2,7 +2,7 @@
 layout: post
 title: How to help your team stop trying to be right
 author: Val
-tags: [leadership]
+tags: [Psychology]
 image: '/images/posts/right-arrow.jpg'
 ---
 

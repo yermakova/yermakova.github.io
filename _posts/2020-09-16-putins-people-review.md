@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Are your emotions serving you?
+title: Putin's People
 author: Val
-tags: [Psychology]
-image: '/images/posts/server-drinks.jpg'
+tags: [Book]
+image: '/images/posts/putins-people.png'
 ---
 
 When you're feeling something negative (anger, fear, sadness), get curious about that. Doing so will give you profound wisdom and insights into your own mind. The answers to your curiosity questions will radically alter the way you understand how you operate in the world around you and how you interact with the people around you.

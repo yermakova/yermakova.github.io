@@ -1,15 +1,15 @@
 {% if page.url == '/' or page.url contains 'tag' %}
 <div class="o-grid--center">
-    <li onclick="goToTag('leadership')" class="c-nav__item">
-        <a class="c-nav__link c-filter">Leadership</a>
+    <li onclick="goToTag('Psychology')" class="c-nav__item {% if page.url contains 'psychology'> %} c-filter__current-filter {% endif %}">
+        <a class="c-nav__link c-filter">Psychology</a>
     </li>
-    <li onclick="goToTag('Book Reviews')" class="c-nav__item">
+    <li onclick="goToTag('Book')" class="c-nav__item {% if page.url contains 'book'> %} c-filter__current-filter {% endif %}">
         <a class="c-nav__link c-filter">Book Reviews</a>
     </li>
-    <li onclick="goToTag('Carpe Diem')" class="c-nav__item c-filter">
+    <li onclick="goToTag('Carpe')" class="c-nav__item c-filter {% if page.url contains 'carpe'> %} c-filter__current-filter {% endif %}">
         <a class="c-nav__link">Carpe Diem</a>
     </li>
-    <li onclick="goToTag('Misc Musings')" class="c-nav__item c-filter">
+    <li onclick="goToTag('Musings')" class="c-nav__item c-filter {% if page.url contains 'musings'> %} c-filter__current-filter {% endif %}">
         <a class="c-nav__link">Misc Musings</a>
     </li>
 </div>

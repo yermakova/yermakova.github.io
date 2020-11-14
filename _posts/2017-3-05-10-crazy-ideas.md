@@ -2,7 +2,7 @@
 layout: post
 title: Experiment – Think of 10 crazy ideas a day for 3 days
 author: val
-tags: [growth]
+tags: [Psychology]
 image: '/images/posts/10ideas.jpg'
 ---
 

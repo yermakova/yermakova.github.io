@@ -2,7 +2,7 @@
 layout: post
 title: Mini-workshop on processing difficult emotions
 author: Val
-tags: [psychology]
+tags: [Psychology]
 image: '/images/posts/drowning.jpg'
 ---
 # People love avoiding negative emotions
