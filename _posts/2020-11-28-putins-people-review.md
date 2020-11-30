@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Putin's People, as summarized by a Millenial
+title: Putin's People, as summarized by a Millennial
 author: Val
 tags: [Book]
 image: '/images/posts/putins-people.png'
 ---
 
 [Putin's People](https://www.amazon.com/Untitled-Camilla-Bartlett/dp/0374238715) is a phenomenally well-researched analyst of Putin’s rise to power and the nature of the Kremlin’s influence over Russian (and non-Russian) citizens.
+
 Of course, I recommend reading the book, but here are some summary points that stuck with me.
 
 #### TLDR
