@@ -19,7 +19,7 @@ His dad was in the KGB, and he was so eager to join that he tried to enroll befo
 I haven't found his "KGB acceptance" video on Youtube, although I imagine it was something [like this](https://www.youtube.com/watch?v=tfnV3uFI2DM&ab_channel=DBLOBoys). In 1985 he packed his bags and moved into his dorm in Dresden, East Germany. There he crushed coursework like Smuggling 101, Assassinations 104, and Secret Missions 007. No, but really, he assassinated people. Unlike the videos in the link above, however, this wasn’t some Yale admission. Dresden was more of a community college vibe on the scale of KGB operation locations.
 
 #### Part 3 - If you believe in yourself, anything is possible
-Putin wasn’t about to be president of a community college, so he made sure to buddy up with the local Stasi (the Nazi secret police) and even got his own Stasi ID card. He did that Nazi’s a solid by helping them plan terrorist attacks, like killing the chairman of Deutsche Bank so that a Stasi bank could reign supreme.
+Putin wasn’t about to be president of a community college, so he made sure to buddy up with the local Stasi (the German secret police) and even got his own Stasi ID card. He did that Stasi's a solid by helping them plan terrorist attacks, like killing the chairman of Deutsche Bank so that a Stasi bank could reign supreme.
 
 
 #### Part 4 - The Communist Party + KGB dream team had a run for it's money...literally
