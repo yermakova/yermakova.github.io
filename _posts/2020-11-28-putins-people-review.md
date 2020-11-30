@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Putin's People, as written by a Millenial
+title: Putin's People, as summarized by a Millenial
 author: Val
 tags: [Book]
 image: '/images/posts/putins-people.png'
